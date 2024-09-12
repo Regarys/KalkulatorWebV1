@@ -2,7 +2,7 @@ body{
     display: flex;  
     align-items: center;
     justify-content: center;
-    height: 100vh; /* Ensures the body takes full viewport height for centering */
+    height: 120vh; /* Ensures the body takes full viewport height for centering */
     margin: 0;
     text-align: center;
     background-color: pink;
